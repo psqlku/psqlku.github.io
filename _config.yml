@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: psqlku
+name: "psqlku"
 
 # Short bio or description (displayed in the header)
 description: Data Science Developer from Somewhere
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://avatars3.githubusercontent.com/u/51762934?s=460&v=4
+avatar: "https://avatars3.githubusercontent.com/u/51762934?s=460&v=4"
 #avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 #
 # Flags below are optional
